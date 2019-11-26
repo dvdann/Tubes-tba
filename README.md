@@ -1,3 +1,6 @@
-# Tubes-tba
-Simple Parser for Proposition Logic Formula (1&amp;2)
-Don't Forget create GUI in Java Programming before used. 
+# Tubes TBA kelompok 11 (IF4207)
+# Simple Parser for Proposition Logic Formula (1&2)
+## Cara Penggunaan
+ - Pastikan laptop terinstall Java Programming Netbeans
+ - arahkan ke folder projek ini
+ - Program ini menggunakan GUI , jangan lupa create GUI nya terlebih dahulu.
